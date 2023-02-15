@@ -6,6 +6,7 @@ namespace stack_vett
 {
     // classe Stack
     //commit1
+    //commit2
     class Stack
     {
         // dati globali della classe
