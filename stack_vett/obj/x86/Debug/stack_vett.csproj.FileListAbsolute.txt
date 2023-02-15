@@ -1,0 +1,5 @@
+C:\Works\C#\console\scuola_2019-2020\IVA\OOP\stack_vett\stack_vett\bin\Debug\stack_vett.exe
+C:\Works\C#\console\scuola_2019-2020\IVA\OOP\stack_vett\stack_vett\bin\Debug\stack_vett.pdb
+C:\Works\C#\console\scuola_2019-2020\IVA\OOP\stack_vett\stack_vett\obj\x86\Debug\stack_vett.exe
+C:\Works\C#\console\scuola_2019-2020\IVA\OOP\stack_vett\stack_vett\obj\x86\Debug\stack_vett.pdb
+C:\Works\C#\console\scuola_2019-2020\IVA\OOP\stack_vett\stack_vett\obj\x86\Debug\stack_vett.csprojResolveAssemblyReference.cache
